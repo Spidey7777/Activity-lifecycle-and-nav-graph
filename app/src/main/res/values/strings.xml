@@ -13,4 +13,6 @@
     <string name="name_fragment1">Fragment1</string>
     <string name="name_fragment2">Fragment2</string>
     <string name="name_fragment3">Fragment3</string>
+    <string name="score_transferred">Transferred Score:</string>
+    <string name="value_transferred" />
 </resources>
